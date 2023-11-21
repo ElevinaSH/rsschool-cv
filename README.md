@@ -1,1 +1,1 @@
-https://ElevinaSH.github.io/rsschool-cv/cv
+https://elevinash.github.io/rsschool-cv/
