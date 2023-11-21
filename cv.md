@@ -37,6 +37,6 @@ const recordCollection = {
 * ### StressLess (learning project)
 https://github.com/ElevinaSH
 * ### Education
-Rs.School
+School Rs.School 
 * ### English Language
 A1, currently studying
